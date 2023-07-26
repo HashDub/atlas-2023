@@ -1,0 +1,63 @@
+{
+	"id": 3559,
+	"name": "Rhythm Bang",
+	"description": "Logo and Ship from the indie rhythm game Rhythm Bang.",
+	"links": {
+		"website": [
+			"https://store.steampowered.com/app/2156810/Rhythm_Bang/"
+		],
+		"discord": [
+			"XrUssQEpJb"
+		]
+	},
+	"path": {
+		"231-256": [
+			[
+				1275,
+				322
+			],
+			[
+				1271,
+				322
+			],
+			[
+				1271,
+				326
+			],
+			[
+				1275,
+				326
+			],
+			[
+				1275,
+				322
+			],
+			[
+				1285,
+				322
+			],
+			[
+				1285,
+				326
+			],
+			[
+				1284,
+				325
+			],
+			[
+				1284,
+				323
+			],
+			[
+				1284,
+				322
+			]
+		]
+	},
+	"center": {
+		"231-256": [
+			1273,
+			324
+		]
+	}
+}
