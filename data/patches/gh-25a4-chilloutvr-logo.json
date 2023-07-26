@@ -1,0 +1,78 @@
+{
+	"id": -1,
+	"name": "ChilloutVR Logo",
+	"description": "ChilloutVR is a social sandbox game enabling players and content creators to create, share and explore content in a massive multiplayer metaverse alone, with friends or anyone around the world. Meet new people and explore virtual worlds together. Playable with and without a VR-Headset.",
+	"links": {
+		"website": [
+			"https://store.steampowered.com/app/661130/ChilloutVR/"
+		],
+		"subreddit": [
+			"ChilloutVR"
+		],
+		"discord": [
+			"abi"
+		]
+	},
+	"path": {
+		"175-256": [
+			[
+				-841,
+				619
+			],
+			[
+				-841,
+				623
+			],
+			[
+				-833,
+				623
+			],
+			[
+				-833,
+				625
+			],
+			[
+				-832,
+				625
+			],
+			[
+				-832,
+				627
+			],
+			[
+				-825,
+				627
+			],
+			[
+				-825,
+				625
+			],
+			[
+				-824,
+				625
+			],
+			[
+				-824,
+				623
+			],
+			[
+				-814,
+				623
+			],
+			[
+				-814,
+				619
+			],
+			[
+				-841,
+				619
+			]
+		]
+	},
+	"center": {
+		"175-256": [
+			-828,
+			623
+		]
+	}
+}
